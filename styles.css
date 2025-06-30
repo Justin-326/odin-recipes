@@ -1,0 +1,24 @@
+#title{
+    background-color: rgb(235, 207, 174);
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    margin: 0;
+}
+
+.recipes{
+    margin: 0;
+    background-color: rgb(230, 228, 138);
+}
+
+
+li{
+    font-size: 15px;
+    color: rgb(67, 2, 245);
+    margin: 8px;
+}
+
+a{
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+}
